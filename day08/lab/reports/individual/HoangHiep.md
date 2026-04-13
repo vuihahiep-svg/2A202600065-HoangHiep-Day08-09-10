@@ -1,9 +1,8 @@
 # Báo Cáo Cá Nhân — Lab Day 08: RAG Pipeline
 
-**Họ và tên:** Nguyen Van A  
-**Vai trò trong nhóm:** Retrieval Owner  
+**Họ và tên:** Hoang Hiep
+**Vai trò trong nhóm:** Tech Lead  
 **Ngày nộp:** 2026-04-13  
-**Độ dài:** ~640 từ
 
 ---
 
